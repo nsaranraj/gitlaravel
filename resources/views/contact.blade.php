@@ -9,6 +9,7 @@
 <body>
     <a href=" {{url('home')}}">Home</a>
     <a href=" {{url('contact')}}">contact</a>
+    <a href=" {{url('contact')}}">contacts</a>
 
     <h1>This is my  <span style="color:red"> contact </span> page</h1>
 </body>
