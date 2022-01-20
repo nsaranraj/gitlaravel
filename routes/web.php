@@ -24,3 +24,8 @@ Route::get('home',function(){
 Route::get('contact',function(){
     return view('contact');
 });
+
+Route::get('check',function(){
+    return view('check');
+
+});
